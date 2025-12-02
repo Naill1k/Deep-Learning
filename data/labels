@@ -1,0 +1,47 @@
+[
+  {
+    "name": "assureur escalade",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "fusee anti-stress",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "gourde",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "ballon de basket",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "canard",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "manette",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "souris",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "roue de velo",
+    "type": "rectangle",
+    "attributes": []
+  },
+  {
+    "name": "casque audio",
+    "type": "rectangle",
+    "attributes": []
+  }
+]
