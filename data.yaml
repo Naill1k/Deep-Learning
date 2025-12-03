@@ -1,0 +1,26 @@
+path: /home/alinot/5A/Deep-Learning/data # dataset root dir
+train: /home/alinot/5A/Deep-Learning/data/train # train images (relative to 'path') 4 images
+val: /home/alinot/5A/Deep-Learning/data/val # val images (relative to 'path') 4 images
+test: /home/alinot/5A/Deep-Learning/data/test # test images (optional)
+
+# Classes
+nc: 17
+names:
+  0: Ballon de basket
+  1: Peluche canard
+  2: Casque audio
+  3: Manette Xbox
+  4: Balle de tennis
+  5: Assureur escalade
+  6: Canard peint
+  7: Tasse
+  8: Canard en plastique
+  9: Roue vélo
+  10: Ecocup
+  11: Raquette de tennis
+  12: Fusée anti-stress
+  13: Stylo
+  14: Etui à lunettes
+  15: Gourde
+  16: Briquet
+
